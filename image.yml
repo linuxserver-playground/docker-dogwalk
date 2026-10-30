@@ -9,6 +9,11 @@ upstream:
   url: https://studio.blender.org/projects/dogwalk/
   version:
     type: os
+  sponsor:
+  - name: Blender Studio subscription
+    url: https://studio.blender.org/join/
+  - name: Blender Development Fund
+    url: https://fund.blender.org/
 
 release:
   branch: master
